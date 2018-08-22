@@ -3,11 +3,14 @@
 
 This repository will contain a Pytorch implementation of ["Object level Visual Reasoning in Videos"](https://arxiv.org/abs/1806.06157), [F. Baradel](https://fabienbaradel.github.io/), [N. Neverova](https://nneverova.github.io/), [C. Wolf](https://perso.liris.cnrs.fr/christian.wolf/), [J. Mille](http://www.rfai.li.univ-tours.fr/PagesPerso/jmille/), [G. Mori](http://www.cs.sfu.ca/~mori/), In ECCV 2018.
 
-Links: [Camera-ready](https://github.com/fabienbaradel/object_level_visual_reasoning) | [Explainer video](https://github.com/fabienbaradel/object_level_visual_reasoning)
+Links: [Project page](https://fabienbaradel.github.io/eccv18_object_level_visual_reasoning/) | [Camera-ready](https://fabienbaradel.github.io/papers/ECCV_18) | [Masks-VLOG](https://github.com/fabienbaradel/object_level_visual_reasoning) | [Masks-EPIC-AR] (https://github.com/fabienbaradel/object_level_visual_reasoning)
 
 <img src="img/teaser_carrots.png" width="800"/>
 
 ## Code
+Coming soon
+
+## Masks
 Coming soon
 
 ## Citation
