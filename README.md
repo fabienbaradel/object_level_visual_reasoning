@@ -14,7 +14,7 @@ We encourage you to follow the steps below:
     * rescaling an entire dataset (WxH=256x256 and fps=30)
 * [testing the dataloader](./loader/README.md)
     * efficient video decoding on the fly
-* [training/testing the implementation](./README_TRAINING_TESTING.md)
+* [training/testing the model](./README_TRAINING_TESTING.md)
     * training procedure using precomputed masks
 
 ## Masks
