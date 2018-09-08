@@ -3,7 +3,7 @@
 
 This repository contains a Pytorch implementation of ["Object level Visual Reasoning in Videos"](https://arxiv.org/abs/1806.06157), [F. Baradel](https://fabienbaradel.github.io/), [N. Neverova](https://nneverova.github.io/), [C. Wolf](https://perso.liris.cnrs.fr/christian.wolf/), [J. Mille](http://www.rfai.li.univ-tours.fr/PagesPerso/jmille/), [G. Mori](http://www.cs.sfu.ca/~mori/), In ECCV 2018.
 
-Links: [Project page](https://fabienbaradel.github.io/eccv18_object_level_visual_reasoning/) | [Camera-ready](https://fabienbaradel.github.io/papers/ECCV_18) | [Masks-VLOG](https://drive.google.com/open?id=1pcEtlgzEJ815zpxzv-PvTZ26PEr_xSVn) | [Masks-EPIC-AR](https://drive.google.com/open?id=16W_aXcr68que05WZ-NhQG0aKLVRILwWy)
+Links: [Project page](https://fabienbaradel.github.io/eccv18_object_level_visual_reasoning/) | [Camera-ready](https://fabienbaradel.github.io/papers/ECCV_18) | [Complementary Mask Data](https://fabienbaradel.github.io/masks_data/)
 
 <img src="img/teaser_carrots.png" width="800"/>
 
@@ -18,8 +18,7 @@ We encourage you to follow the steps below:
     * training procedure using precomputed masks
 
 ## Masks
-You can download the precomputed masks using the links at the top of the page.
-The resolution is of size 100x100 and we threshold the predictions with a minimum confidence of 0.5.
+Please visit the following [website](https://fabienbaradel.github.io/masks_data/) for downloading the mask predictions.
 
 # Requirements
 * pytorch 0.4.0
