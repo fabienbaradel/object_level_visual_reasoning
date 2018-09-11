@@ -21,7 +21,7 @@ where `<MY-RESUME>` is the path to your resume.
 First you will train the object head (10 epochs) and then you will train the full model (10 epochs).
 
 ### Testing
-We release weights of our model pretrained on VLOG: [link](https://drive.google.com/open?id=1pcEtlgzEJ815zpxzv-PvTZ26PEr_xSVn).
+We release weights of our model pretrained on VLOG: [link](https://drive.google.com/open?id=12rSb41HGKm_u93isZJArG-RukLpPmJFI).
 Move the checkpoint to a resume directory.
 ```shell
 # Pythonpath
